@@ -1,0 +1,34 @@
+.index{
+    color: rgba(124, 41, 124, 0.712);
+}
+.home{
+    color: bb54e7;
+}
+.home table,tr,th,td{border: 1px solid black;
+    border-collapse: collapse;}
+.home th{background-color:rgb(224, 195, 223);}
+.contact{
+color: rgb(235, 17, 108);
+}
+
+.skills{
+    color: rgb(15, 78, 78);
+}
+.projects{
+color: rgb(214, 27, 158);
+}
+.projects table,tr,th,td{border: 1px solid black;
+    border-collapse: collapse;}
+.projects th {background-color:rgb(236, 193, 227);}
+.feedback{
+    background-color: rgb(182, 207, 199);
+    color:rgb(18, 99, 204) ;
+}
+.feedback h1{
+    color: rgb(92, 168, 218);
+    background-color: rgb(204, 218, 224)
+}
+#button{
+    color:rgb(6, 37, 58) ;
+    background-color: rgb(161, 216, 233);
+}
